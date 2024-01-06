@@ -26,10 +26,10 @@
   - getters and setters 🖐️ used
   - __proto__
   - prototype
-  - equality operators 🎓 known
-  - logical operators 🎓 known
-  - bitwise operators 🎓 known
-  - ternary operator 🎓 known
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
   - void 🙋 explained
   - yield
   - await
