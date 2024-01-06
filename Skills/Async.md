@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - try..catch
+  - try..catch 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,24 +19,24 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
+  - Thread👂 heard
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks 👂 heard
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 👂 heard
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream 🖐️ used
   - Chain of responsibility
   - Middleware
   - Locks
@@ -75,7 +75,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage
