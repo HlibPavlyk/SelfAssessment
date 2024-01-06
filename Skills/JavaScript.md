@@ -3,87 +3,87 @@
 - Language
   - Object 🙋 explained
   - this 🙋 explained
-  - arrow function
-  - async function
-  - call 🖐️ used
-  - bind
-  - apply
-  - instanceof 👂 heard
+  - arrow function 🖐️ used
+  - async function 🙋 explained
+  - call  🙋 explained
+  - bind 👂 heard
+  - apply 👂 heard
+  - instanceof  🙋 explained
   - ...spread
   - ...rest
-  - typeof 🖐️ used
+  - typeof  🙋 explained
   - destructuring
-  - generator
-  - iterator 🎓 known
-  - async generator
-  - async iterator
+  - generator 👂 heard
+  - iterator  🙋 explained
+  - async generator 🖐️ used
+  - async iterator 🖐️ used
   - chaining
-  - optional chaining
+  - optional chaining 👂 heard
   - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters 🖐️ used
-  - __proto__
+  - global 👂 heard
+  - globalThis 👂 heard
+  - window 👂 heard
+  - getters and setters  🙋 explained
+  - __proto__ 👂 heard
   - prototype
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 🖐️ used
-  - ternary operator 🖐️ used
+  - equality operators  🙋 explained
+  - logical operators  🙋 explained
+  - bitwise operators  🙋 explained
+  - ternary operator  🙋 explained
   - void 🙋 explained
-  - yield
-  - await
+  - yield 🙋 explained
+  - await 🙋 explained
   - template literal
   - strict mode
-  - delete
+  - delete 👂 heard
   - in
   - super
-  - Symbol
+  - Symbol 👂 heard
   - Reflect
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - for..in 👂 heard
-  - for..of 👂 heard
-  - for await
-  - throw🖐️ used
-  - break🖐️ used
-  - continue🖐️ used
+  - if 🙋 explained
+  - while 🙋 explained
+  - do..while 🙋 explained
+  - for 🙋 explained
+  - for..in 🖐️ used
+  - for..of 🖐️ used
+  - for await 🙋 explained
+  - throw 🙋 explained
+  - break 🙋 explained
+  - continue 🙋 explained
   - import 🖐️ used
-  - export
-  - label
-  - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🖐️ used
-  - new Error
-  - with
+  - export 🖐️ used
+  - label 🖐️ used
+  - try..catch 🙋 explained
+  - switch 🙋 explained
+  - class 🙋 explained
+  - new Error 🖐️ used
+  - with 🎓 known
 - Functions
-  - function declaration 🖐️ used
-  - function expression 🖐️ used
-  - return 🖐️ used
-  - default parameters 🖐️ used
+  - function declaration 🙋 explained
+  - function expression 🙋 explained
+  - return 🙋 explained
+  - default parameters 🙋 explained
   - functional object 🖐️ used
 - Data structures
-  - Array 🖐️ used
-  - mixin
-  - extend
-  - typed arrays
-  - Map 🖐️ used
-  - Set 🖐️ used
-  - undefined 🖐️ used
-  - null 🖐️ used
+  - Array 🙋 explained
+  - mixin 👂 heard
+  - extend 👂 heard
+  - typed arrays 🙋 explained
+  - Map 🙋 explained
+  - Set 🙋 explained
+  - undefined 🙋 explained
+  - null 🙋 explained
   - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
+  - weak collections 🖐️ used
+  - timers 👂 heard
+  - EventEmitter 👂 heard
   - RegExp 🖐️ used
   - Date
   - BigInt 🖐️ used
 - Infrastructure
-  - V8
+  - V8 🖐️ used
   - Node.js 🖐️ used
-  - npm
-  - prettier
+  - npm 🖐️ used
+  - prettier 🖐️ used
   - MDN

@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🖐️ used
-  - Imperative programming 🖐️ used
-  - Structured programming 🖐️ used
-  - Non-structured programming 👂 heard
-  - Functional programming 🖐️ used
-  - Prototype-based programming
-  - Object-oriented programming 🖐️ used
-  - Object-based programming
-  - Generic programming
+  - Procedural programming 🙋 explained
+  - Imperative programming 🙋 explained
+  - Structured programming 🙋 explained
+  - Non-structured programming 🖐️ used
+  - Functional programming 🙋 explained
+  - Prototype-based programming 👂 heard
+  - Object-oriented programming 🙋 explained
+  - Object-based programming 🎓 known
+  - Generic programming 👂 heard
   - Concurrent computing
-  - Asyncronous programming 👂 heard
-  - Parallel programming 👂 heard
-  - Reactive programming
-  - FRP (Functional-reactive)
+  - Asyncronous programming 🖐️ used
+  - Parallel programming 🖐️ used
+  - Reactive programming 👂 heard
+  - FRP (Functional-reactive) 👂 heard
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming 👂 heard
-  - Metaprogramming
-  - Actor model
+  - Domain-specific languages 👂 heard
+  - Multi-paradigm programming 🖐️ used
+  - Metaprogramming 👂 heard
+  - Actor model 👂 heard
 - OOP basics
   - constructor 🙋 explained
   - new 🙋 explained
-  - Static method 🖐️ used
+  - Static method 🙋 explained
   - Method 🙋 explained
-  - Async method
+  - Async method 🙋 explained
   - Getters, Setters 🙋 explained
   - Public fields 🙋 explained
   - Private fields 🙋 explained
-  - Field declarations
+  - Field declarations 🙋 explained
   - Inheritance 🙋 explained
   - Parent class 🙋 explained
   - Polymorphism 🙋 explained
   - Abstract class 🙋 explained
   - Interface 🙋 explained
   - Encapsulation 🙋 explained
-  - Hidden class
+  - Hidden class 🙋 explained
   - Object form 🙋 explained
   - instance 🙋 explained
-  - Introspection
-  - Reflection
+  - Introspection 🙋 explained
+  - Reflection 🙋 explained
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method 🖐️ used
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
+  - Singleton 🙋 explained
+  - Factory Method 🙋 explained
+  - Abstract Factory 🙋 explained
+  - Adapter 🙋 explained
+  - Observer 🙋 explained
+  - Strategy 🙋 explained
+  - Facade 🙋 explained
+  - Proxy 👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator 👂 heard
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
+  - Iterator 🙋 explained
+  - State 👂 heard
+  - Bridge 🖐️ used
+  - Builder 🙋 explained
+  - Prototype 👂 heard
+  - Composite 👂 heard
+  - Decorator 🙋 explained
   - Flyweight
-  - Mediator
-  - Memento
+  - Mediator 👂 heard
+  - Memento 👂 heard
   - Template Method
-  - Visitor
+  - Visitor 👂 heard

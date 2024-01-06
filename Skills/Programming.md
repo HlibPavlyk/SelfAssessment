@@ -5,8 +5,8 @@
   - identifier 🙋 explained
   - variable 🙋 explained
   - constant 🙋 explained
-  - scalar  🖐️ used
-  - literal 🖐️ used
+  - scalar 🙋 explained
+  - literal 🙋 explained
   - expression 🙋 explained
   - heap 🙋 explained
   - function 🙋 explained
@@ -14,48 +14,48 @@
   - method 🙋 explained
   - class 🙋 explained
   - prototype 🖐️ used
-  - event 🖐️ used
+  - event 🙋 explained
   - type 🙋 explained
   - primitive types 🙋 explained
   - reference types 🙋 explained
-  - flag 🖐️ used
-  - lexical scope 🖐️ used
-  - code block 🖐️ used
-  - conditions
+  - flag 🙋 explained
+  - lexical scope 🙋 explained
+  - code block 🙋 explained
+  - conditions 🎓 known
   - loops 🙋 explained
-  - assignment 🖐️ used
-  - regular expression 🖐️ used
+  - assignment 🙋 explained
+  - regular expression 🙋 explained
   - interface 🙋 explained
-  - contract
-  - module 🖐️ used
+  - contract 🎓 known
+  - module 🙋 explained
   - call stack 🙋 explained
 - Functions
   - signature 🙋 explained
   - argument 🙋 explained
   - parameter 🙋 explained
-  - pure function 👂 heard
-  - lambda expression 🖐️ used
-  - side effects
+  - pure function 🙋 explained
+  - lambda expression 🙋 explained
+  - side effects 🖐️ used
   - closure
   - partial application
-  - curry
-  - higher order
-  - recursion 🖐️ used
-  - callback 🖐️ used
-  - listener 🖐️ used
-  - compose
-  - pipe
-  - memoize 🖐️ used
-  - wrapper
-  - functor
+  - curry 👂 heard
+  - higher order 🖐️ used
+  - recursion 🙋 explained
+  - callback 🙋 explained
+  - listener 🙋 explained
+  - compose 🖐️ used
+  - pipe 🖐️ used
+  - memoize 🙋 explained
+  - wrapper 👂 heard
+  - functor 👂 heard
   - monad
-  - monoid
-  - generator
-  - coroutine 👂 heard
+  - monoid 👂 heard
+  - generator 🖐️ used
+  - coroutine 🙋 explained
 - Data structures
   - array 🙋 explained
   - structure 🙋 explained
-  - record 👂 heard
+  - record 🖐️ used
   - enum 🙋 explained
   - instance 🙋 explained
   - object 🙋 explained
@@ -69,18 +69,18 @@
   - circular list 🙋 explained
   - queue 🙋 explained
   - stack 🙋 explained
-  - deque 👂 heard
+  - deque 🖐️ used
   - tree 🙋 explained
   - graph 🙋 explained
-  - iterator 🖐️ used,
+  - iterator 🙋 explained
   - mutable state 🙋 explained
   - immutable state 🙋 explained
-  - serialization 👂 heard
-  - string parsing 🖐️ used,
+  - serialization 🖐️ used
+  - string parsing 🙋 explained
 - Process & style
   - compiler 🙋 explained
-  - transpiler
-  - linter
+  - transpiler 🖐️ used
+  - linter 🖐️ used
   - polyfill 👂 heard
   - debugger 🙋 explained
   - garbage collection 🙋 explained
@@ -94,13 +94,13 @@
   - complexity 🙋 explained
   - decomposition 🙋 explained
   - spaghetti 🖐️ used
-  - silver bullet
-  - not invented here
+  - silver bullet 🖐️ used
+  - not invented here  🎓 known
   - dead code 🙋 explained
   - unreachable code 🙋 explained
   - duplicate code 🙋 explained
   - exception 🙋 explained
-  - return early 🖐️ used
-  - unittest 👂 heard
-  - git 👂 heard
-  - github 👂 heard
+  - return early 🙋 explained
+  - unittest 🖐️ used
+  - git 📢 talked
+  - github 📢 talked

@@ -1,92 +1,92 @@
 - Design Patterns in Game Development
-  - Singleton pattern 👂 heard
-  - Factory pattern 🖐️ used
-  - Observer pattern
-  - Command pattern
-  - State pattern
-  - Strategy pattern 
-  - Decorator pattern 
-  - Composite pattern
-  - MVC (Model-View-Controller) pattern
-  - MVVM (Model-View-ViewModel) pattern 
+  - Singleton pattern 🙋 explained
+  - Factory pattern 🙋 explained
+  - Observer pattern 🖐️ used
+  - Command pattern 🎓 known
+  - State pattern 🎓 known
+  - Strategy pattern 🙋 explained
+  - Decorator pattern 🖐️ used
+  - Composite pattern 🎓 known
+  - MVC (Model-View-Controller) pattern 🙋 explained
+  - MVVM (Model-View-ViewModel) pattern 🎓 known
 
 - Game Design Principles
-  - Player experience 👂 heard
-  - Game mechanics 👂 heard
-  - Storytelling 👂 heard
-  - Level design 👂 heard
-  - Balancing
-  - User interface (UI) design
-  - User experience (UX) design
-  - Playtesting and Iterative Design
+  - Player experience 🙋 explained
+  - Game mechanics 🙋 explained
+  - Storytelling 🙋 explained
+  - Level design 🙋 explained
+  - Balancing 🖐️ used
+  - User interface (UI) design 🙋 explained
+  - User experience (UX) design 🙋 explained
+  - Playtesting and Iterative Design 🖐️ used
 
 - Graphics and Rendering
-  - 2D graphics
-  - 3D graphics
-  - Shaders
-  - Lighting
-  - Textures and materials 👂 heard
-  - Animation 
-  - Animation principles
-  - Particle systems and GPU programming
+  - 2D graphics 🙋 explained
+  - 3D graphics 👂 heard
+  - Shaders 🖐️ used
+  - Lighting 🖐️ used
+  - Textures and materials 🙋 explained
+  - Animation 🙋 explained
+  - Animation principles 🙋 explained
+  - Particle systems and GPU programming 🖐️ used
 
 - Physics and Simulation Techniques
-  - Collision detection
-  - Physics engines
-  - Particle physics
-  - Ragdoll physics
+  - Collision detection 🙋 explained
+  - Physics engines 🙋 explained
+  - Particle physics 🖐️ used
+  - Ragdoll physics 🖐️ used
 
 - Game Programming
-  - Game loops
-  - Input handling
-  - State machines 
-  - Game AI 👂 heard
-  - Pathfinding algorithms
-  - Code architecture and organization 👂 heard
+  - Game loops 🙋 explained
+  - Input handling 🖐️ used
+  - State machines 🖐️ used
+  - Game AI 🙋 explained
+  - Pathfinding algorithms 🖐️ used
+  - Code architecture and organization 🙋 explained
 
 - Sound and Music
-  - Audio engines 
-  - Sound effects 
-  - Music integration 
-  - 3D audio
-  - Dynamic soundscapes
+  - Audio engines 🎓 known
+  - Sound effects 🎓 known
+  - Music integration 🙋 explained
+  - 3D audio 🎓 known
+  - Dynamic soundscapes 🎓 known
 
 - Game Development Tools
-  - Game engines (Unity, Unreal Engine, etc.) 👂 heard
-  - Version control systems (Git) 👂 heard
-  - Integrated Development Environments (IDEs)
-  - Debugging tools
-  - Profiling and optimization tools
+  - Game engines (Unity, Unreal Engine, etc.) 🙋 explained
+  - Version control systems (Git) 🙋 explained
+  - Integrated Development Environments (IDEs) 🖐️ used
+  - Debugging tools 🖐️ used
+  - Profiling and optimization tools 🖐️ used
 
 - Game Testing Strategies
-  - Unit testing 
-  - Integration testing 
-  - User testing 
-  - Quality assurance
-  - Automated testing and test-driven development (TDD)
+  - Unit testing 🙋 explained
+  - Integration testing 🖐️ used
+  - User testing 🙋 explained
+  - Quality assurance 🎓 known
+  - Automated testing and test-driven development (TDD) 👂 heard
 
 - C# Language Fundamentals
   - Variables and data types 🙋 explained
   - Control flow (if, switch, loops) 🙋 explained
   - Functions and methods 🙋 explained
-  - Classes and objects 🙋 explained
+  - Classes and objects 📢 talked
   - Inheritance and polymorphism 🙋 explained
-  - Delegates, events, and lambda expressions 👂 heard
-  - Asynchronous programming in C# 👂 heard
+  - Delegates, events, and lambda expressions 📢 talked
+  - Asynchronous programming in C# 🙋 explained
 
 - Unity Basics and Beyond
-  - GameObjects and Components
-  - Scenes and Prefabs 
-  - Physics in Unity
-  - Unity UI system 
-  - Input handling in Unity 
-  - Coroutines and asynchronous programming in Unity
-  - Unity Services and Cloud-based features
+  - GameObjects and Components 🙋 explained
+  - Scenes and Prefabs 📢 talked
+  - Physics in Unity 🙋 explained
+  - Unity UI system 🙋 explained
+  - Input handling in Unity 🙋 explained
+  - Coroutines and asynchronous programming in Unity 🙋 explained
+  - Unity Services and Cloud-based features 🖐️ used
 
 - Unity Advanced Concepts
-  - ScriptableObjects 👂 heard
-  - Unity Events 
-  - Serialization in Unity 
-  - AssetBundles
-  - Addressables system
-  - Timeline and Cinemachine for cinematic experiences
+  - ScriptableObjects 📢 talked
+  - Unity Events 🙋 explained
+  - Serialization in Unity 🙋 explained
+  - AssetBundles 🖐️ used
+  - Addressables system 🖐️ used
+  - Timeline and Cinemachine for cinematic experiences 🙋 explained
