@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object 🙋 explained
+  - this 🙋 explained
   - arrow function
   - async function
-  - call
+  - call 🖐️ used
   - bind
   - apply
-  - instanceof
+  - instanceof 👂 heard
   - ...spread
   - ...rest
-  - typeof
+  - typeof 🖐️ used
   - destructuring
   - generator
-  - iterator
+  - iterator 🎓 known
   - async generator
   - async iterator
   - chaining
@@ -23,14 +23,14 @@
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters 🖐️ used
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators 🎓 known
+  - logical operators 🎓 known
+  - bitwise operators 🎓 known
+  - ternary operator 🎓 known
+  - void 🙋 explained
   - yield
   - await
   - template literal
@@ -41,49 +41,49 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 👂 heard
+  - for..of 👂 heard
   - for await
-  - throw
-  - break
-  - continue
-  - import
+  - throw🖐️ used
+  - break🖐️ used
+  - continue🖐️ used
+  - import 🖐️ used
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
+  - default parameters 🖐️ used
+  - functional object 🖐️ used
 - Data structures
-  - Array
+  - Array 🖐️ used
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map 🖐️ used
+  - Set 🖐️ used
+  - undefined 🖐️ used
+  - null 🖐️ used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
-  - RegExp
+  - RegExp 🖐️ used
   - Date
-  - BigInt
+  - BigInt 🖐️ used
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js 🖐️ used
   - npm
   - prettier
   - MDN
