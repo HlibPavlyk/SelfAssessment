@@ -1,12 +1,12 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -15,7 +15,7 @@
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 👂 heard
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules
   - Dependencies: package.json and package lock
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID 🖐️ used
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,15 +86,15 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) 🎓 known
+  - TCP/SSL 🎓 known
   - UDP
   - TLS
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 
   - RPC
   - Routing
   - DoS
